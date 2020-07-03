@@ -1,0 +1,6 @@
+classes= 10
+train  = datasets/paris_train.txt
+valid  = datasets/paris_test.txt
+names = data/paris.names
+backup = backup/
+
